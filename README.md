@@ -23,15 +23,15 @@ O projeto consiste em uma página simples feita com **HTML** e **CSS** que tem c
 
 ## Como Rodar o Projeto
 
-1.Faça o clone deste repositório:
+1. Faça o clone deste repositório:
    ```bash
    git clone https://github.com/seuusuario/amigo-secreto.git
-```
+   ```
 2. Navegue até a pasta do projeto:
 
-```bash
-cd amigo-secreto
-```
+   ```bash
+   cd amigo-secreto
+   ```
 3. Abra o arquivo index.html no seu navegador
  
 ## Uso
