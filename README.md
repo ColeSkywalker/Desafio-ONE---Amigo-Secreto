@@ -23,10 +23,17 @@ O projeto consiste em uma página simples feita com **HTML** e **CSS** que tem c
 
 ## Como Rodar o Projeto
 
-1. Faça o clone deste repositório:
+1.Faça o clone deste repositório:
    ```bash
    git clone https://github.com/seuusuario/amigo-secreto.git
+```
+2. Navegue até a pasta do projeto:
 
+```bash
+cd amigo-secreto
+```
+3. Abra o arquivo index.html no seu navegador
+ 
 ## Uso
 Insira um nome no campo de entrada e clique no botão para adicionar o nome à lista.
 Para realizar o sorteio, clique no botão "Sortear Amigo Secreto". O nome sorteado será exibido na tela.
